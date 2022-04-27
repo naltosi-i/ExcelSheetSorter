@@ -1,7 +1,7 @@
 # ExcelSheetSorter
 This Python program sort Excel sheet by your list.
 
-### This program require the Libraly
+### This program require the Libraly. Please, insatall.
 openpyxl
 
 ## 説明 Explanation
