@@ -14,7 +14,7 @@ sys.dont_write_bytecode = True # pycacheを作らないようにする
 # 設定項目
 path = 'dummy.xlsx' # 元ファイル
 savename = "sorted_" + path # 完成ファイル
-sortlist = 'BTSJsortList.xlsx' # ソートリストの入っているファイル
+sortlist = 'yourList.xlsx' # ソートリストの入っているファイル
 sl = 3 # 並べ替え先頭位置（0から始まるシートのインデックス。4枚目から始めたい場合は3）
 # 設定ここまで
 
